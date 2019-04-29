@@ -1,0 +1,10 @@
+#rec{
+  display: flex;
+  width: 45px;
+  height: 30px;
+  background-color: orange;
+  margin-top: 80px;
+  justify-content: center;
+  margin-left: auto;
+ margin-right: auto;
+}
